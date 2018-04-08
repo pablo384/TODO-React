@@ -4,25 +4,25 @@
       "title":"task 1",
       "responsible":"pablo",
       "description":"lorem",
-      "priiority":"low"
+      "priority":"low"
     },
     {
       "title":"task 2",
       "responsible":"pablo",
       "description":"lorem",
-      "priiority":"low"
+      "priority":"low"
     },
     {
       "title":"task 3",
       "responsible":"pablo",
       "description":"lorem",
-      "priiority":"low"
+      "priority":"low"
     },
     {
       "title":"task 4",
       "responsible":"pablo",
       "description":"lo1rem",
-      "priiority":"low"
+      "priority":"low"
     }
   ]
 
